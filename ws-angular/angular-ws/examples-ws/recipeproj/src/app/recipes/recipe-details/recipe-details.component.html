@@ -1,13 +1,17 @@
  recipe-details component here!
 <div class="row">
   <div class="cols-xs-12">
-    <img src="" alt="" class="img-responsive">
+    <img 
+    [src]="recipe.imagePath" 
+    alt="{{ recipe.name }}" 
+    class="img-responsive" 
+    style="max-height: 200px">
   </div>
 </div>
-
+ 
 <div class="row">
   <div class="cols-xs-12">
-    <h3>Recipe Name</h3>
+    <h3>{{ recipe.name }}</h3>
   </div>
 </div>
 
@@ -27,4 +31,15 @@
     </div>
   </div>
 </div>
-
+<br>
+<br>
+<div class="row">
+  <div class="cols-xs-12">
+    <h3>{{ recipe.description }}</h3>
+  </div>
+</div>
+<div class="row">
+  <div class="cols-xs-12">
+    Ingredients
+  </div>
+</div>
