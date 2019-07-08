@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539080961705_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=commons/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=commons/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HLLCarrier/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HLLCarrier/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539080961816_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=commons/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HLLCarrier/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539081433164_3" label="FMS-Logistics" name="FMS-Logistics">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/commons" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FMSCarrierCoc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HLLCarrier" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FMSLogistics" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539080978790_2" label="Window Working Set" name="Aggregate for window 1539080978790"/>
+</workingSetManager>

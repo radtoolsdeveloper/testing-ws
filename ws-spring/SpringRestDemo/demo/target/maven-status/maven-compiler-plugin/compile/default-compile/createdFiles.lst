@@ -1,0 +1,9 @@
+com\bhaiti\kela\config\Config.class
+com\bhaiti\kela\controllers\StudentDeleteController.class
+com\bhaiti\kela\controllers\StudentUpdateController.class
+com\bhaiti\kela\server\main\SpringRestDemoApplication.class
+com\bhaiti\kela\beans\Student.class
+com\bhaiti\kela\controllers\StudentRetrieveController.class
+com\bhaiti\kela\beans\StudentRegistration.class
+com\bhaiti\kela\beans\StudentRegistrationReply.class
+com\bhaiti\kela\controllers\StudentRegistrationController.class
