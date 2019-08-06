@@ -22,7 +22,7 @@ export class StudentRegistrationComponent implements OnInit {
       //this.router.navigate(['/student-retrieve/' + result.referenceNumber]);
       //this.router.navigate(['/student/allstudent']);
     }, (err) => {
-      console.log(err);
+      console.log(err);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
     });
   }
 
